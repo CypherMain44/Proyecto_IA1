@@ -8,7 +8,7 @@
 Predecir el resultado de combates de taekwondo a partir de datos de rendimiento.
 
 ## Recursos
-- **Video de YouTube:** [Agregar URL](#)
+- **Video de YouTube:** https://youtu.be/Cmubd6VpGMc
 - **Dataset:** https://www.kaggle.com/datasets/weyoungopenlab/tkd-preperf-taekwondo-pre-match-indicators/data
 
 ## Integrante
